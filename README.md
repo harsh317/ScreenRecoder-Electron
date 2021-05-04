@@ -2,7 +2,7 @@
 A (Quick Project) Screen Recoder made using electron in 30-40 min
 
 
-##Installation:
+## Installation:
 - download the exe and install pressing next...next
 
 ## Usage
