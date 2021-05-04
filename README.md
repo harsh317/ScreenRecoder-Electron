@@ -13,7 +13,7 @@ A (Quick Project) Screen Recoder made using electron in 30-40 min
 - Save It
 
 ## Note
-i haven't tested the app as it was just a free project that i made in 30-40 min. Pease create an issue incase of any bug 
+i haven't debuged the app for issues as it was just a free project that i made in 30-40 min. Pease create an issue incase of any bug 
 
 ## Refernence Taken
 https://www.youtube.com/watch?v=3yqDxhR2XxE
