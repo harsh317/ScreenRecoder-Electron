@@ -1,0 +1,25 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    padding: 0;
+    margin: 0
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.buttonsdiv {
+    margin-top: 5px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.buttonsdiv button {
+    margin-left: 2pc;
+}
